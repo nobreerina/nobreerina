@@ -1,5 +1,5 @@
 ### Hi there 👋 Welcome to my Github.
-I'm Erina Nobre, a software development student and passiate about technology. 
+I'm Erina Nobre, a computer science student and passiate about technology. 
 As you may see, my GitHub is still on the process of being complete.
 
 <!--
